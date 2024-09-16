@@ -1,16 +1,13 @@
-## Hi there 👋
+Bem vindo ao meu perfil 👋
 
-<!--
-**Psiu15/Psiu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Angeles Aliaga
 
-Here are some ideas to get you started:
+-->ESTUDANDO<--
+Alura, uma plataforma de tecnológia que ajuda no desenvolvimento tecnologico.
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-->CONTATO<--
+email: 00001141962792sp@al.educacao.sp.gov.br
+
+#Gostodeapendercoisasnovas
